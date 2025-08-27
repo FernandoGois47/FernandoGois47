@@ -7,9 +7,11 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 **Administração** – Faculdade UniSecal
-- 🎓 **MBA em Gestão de Projetos** – Positivo  
 - 📚 **Cursando ADS (Análise e Desenvolvimento de Sistemas)** – Faculdade de Técnologia Senac
+- 🎓 **MBA em Gestão de Projetos** – Positivo  
+- 🎓 **Administração** – Faculdade UniSecal
+
+
 
 ---
 
