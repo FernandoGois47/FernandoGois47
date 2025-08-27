@@ -17,7 +17,7 @@
 - **Linguagens:** PHP, Python, SQL  
 - **Desenvolvimento Web:** React-Native, TailwindCSS  
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Git, Docker, Gestão de Projetos (Scrum, Kanban)  
+- **Outros:** Gestão de Projetos (Scrum, Kanban)  
 
 ---
 
