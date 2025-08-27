@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Fernando de Gois
+# 👋 Olá, eu sou Fernando
 
 💻 **Profissional de TI** com formação em **Administração** e **MBA em Gestão de Projetos**.  
 📚 Atualmente, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, unindo conhecimentos de negócios, gestão e tecnologia para criar soluções inovadoras.  
