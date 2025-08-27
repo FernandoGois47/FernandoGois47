@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight)
 
----
+----
 
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-de-gois/)  
