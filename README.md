@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou Fernando de Gois
 
-<!--
-**FernandoGois47/FernandoGois47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Profissional de TI** com formação em **Administração** e **MBA em Gestão de Projetos**.  
+📚 Atualmente, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, unindo conhecimentos de negócios, gestão e tecnologia para criar soluções inovadoras.  
+🚀 Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação Acadêmica
+- 🎓 **Administração** – Faculdade UniSecal
+- 🎓 **MBA em Gestão de Projetos** – Positivo  
+- 📚 **Cursando ADS (Análise e Desenvolvimento de Sistemas)** – Faculdade de Técnologia Senac
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** PHP, Python, SQL  
+- **Desenvolvimento Web:** React-Native, TailwindCSS  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Outros:** Git, Docker, Gestão de Projetos (Scrum, Kanban)  
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-de-gois/)  
