@@ -24,11 +24,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/fernandoGois47">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight) 
-  </a>
-</div>
+
 
 
 ----
