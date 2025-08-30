@@ -26,11 +26,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight&cache_seconds=1800">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="400" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <a href="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight&cache_seconds=1800">
+    <img src="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="400" />
   </a>
 </div>
 
