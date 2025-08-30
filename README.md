@@ -23,7 +23,7 @@
 
 ---
 
-📊 Estatísticas do GitHub
+<h3>📊 Estatísticas do GitHub</h3>
 
 <div align="center">
   <table>
