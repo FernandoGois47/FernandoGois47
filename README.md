@@ -23,15 +23,19 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight&cache_seconds=1800">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="400" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight&cache_seconds=1800">
-    <img src="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="400" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGois47&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FernandoGois47&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
