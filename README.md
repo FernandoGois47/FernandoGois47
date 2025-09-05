@@ -1,17 +1,13 @@
-# 👋 Olá, eu sou Fernando
+# Olá, eu sou Fernando
 
-💻 **Profissional de TI** com formação em **Administração** e **MBA em Gestão de Projetos**.  
-📚 Atualmente, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, unindo conhecimentos de negócios, gestão e tecnologia para criar soluções inovadoras.  
-🚀 Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital.  
+**Profissional de TI** se formando em **Análise e Desenvolvimento de Sistemas**.
+*Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital. 
+*Atualmente faço estágio na prefeitura de Ponta Grossa - PR, acabei de entrar para parte de **desenvolvimento** deles, fiquei 1 ano na parte de suporte técnico, então a parte de **Hardware**, **Rede**, **SO**, **Rack**, entre outro, peguei uma boa esperiencia.
 
 ---
 
-## 🎓 Formação Acadêmica
-- 📚 **Cursando ADS (Análise e Desenvolvimento de Sistemas)** – Faculdade de Técnologia Senac
-- 🎓 **MBA em Gestão de Projetos** – Positivo  
-- 🎓 **Administração** – Faculdade UniSecal
-
-
+## 🎓 Formação Acadêmica:
+- 📚 **Cursando ADS (Análise e Desenvolvimento de Sistemas)** – Faculdade de Técnologia Senac, termina agora em **2026!**
 
 ---
 
@@ -41,5 +37,5 @@
 
 ----
 
-## 🌐 Onde me encontrar
+## Se quiser saber mais sobre mim, tenho **Linkedin**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-de-gois/)  
