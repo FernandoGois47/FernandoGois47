@@ -6,12 +6,12 @@ Atualmente faço estágio na prefeitura de Ponta Grossa - PR, acabei de entrar p
 
 ---
 
-## 🎓 Formação Acadêmica:
+🎓 Formação Acadêmica:
 - 📚 **Cursando ADS (Análise e Desenvolvimento de Sistemas)** – Faculdade de Técnologia Senac, termina agora em **2026!**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+🛠️ Tecnologias & Ferramentas
 - **Linguagens:** PHP, Python, SQL  
 - **Desenvolvimento Web:** React-Native, TailwindCSS  
 - **Banco de Dados:** MySQL, PostgreSQL  
