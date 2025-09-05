@@ -1,8 +1,8 @@
 # Olá, eu sou Fernando
 
 **Profissional de TI** se formando em **Análise e Desenvolvimento de Sistemas**.
-*Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital. 
-*Atualmente faço estágio na prefeitura de Ponta Grossa - PR, acabei de entrar para parte de **desenvolvimento** deles, fiquei 1 ano na parte de suporte técnico, então a parte de **Hardware**, **Rede**, **SO**, **Rack**, entre outro, peguei uma boa esperiencia.
+Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital. 
+Atualmente faço estágio na prefeitura de Ponta Grossa - PR, acabei de entrar para parte de **desenvolvimento** deles, fiquei 1 ano na parte de suporte técnico, então a parte de **Hardware**, **Rede**, **SO**, **Rack**, entre outro, peguei uma boa esperiencia.
 
 ---
 
